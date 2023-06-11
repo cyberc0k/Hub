@@ -11,9 +11,11 @@
             {{--            //располжение в одну строку--}}
         </div>
         <div class="d-flex">
-            <div><strong>153</strong> posts</div>
-            <div><strong>23k</strong> followers</div>
-            <div><strong>212</strong> following</div>
+            <div class="pr-5"><strong>153</strong> posts</div>
+            <div class="pr-5"><strong>23k</strong> followers</div>
+            <div class="pr-5"><strong>212</strong> following</div>
         </div>     </div>
+    <div class="pt-4 font-weight-bold"> this is my experemental project</div>
+    <div><a href="#">Cybercok.com</a></div>
     </div>
 @endsection
