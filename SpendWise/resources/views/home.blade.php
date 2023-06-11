@@ -17,5 +17,14 @@
         </div>     </div>
     <div class="pt-4 font-weight-bold"> this is my experemental project</div>
     <div><a href="#">Cybercok.com</a></div>
+
+
+    <div class="row flex-lg-row">
+        <div class="col-4">
+            <img src="https://images.hdqwalls.com/download/cyberpunk-2077-colored-band-4k-wq-2048x2048.jpg" style="height: 300px">
+            <img src="https://images.hdqwalls.com/download/cyberpunk-2077-colored-band-4k-wq-2048x2048.jpg" style="height: 300px">
+            <img src="https://images.hdqwalls.com/download/cyberpunk-2077-colored-band-4k-wq-2048x2048.jpg" style="height: 300px">
+        </div>
     </div>
+</div>
 @endsection
