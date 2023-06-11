@@ -20,10 +20,10 @@
 
 
     <div class="row flex-lg-row">
-        <div class="col-4">
-            <img src="https://images.hdqwalls.com/download/cyberpunk-2077-colored-band-4k-wq-2048x2048.jpg" style="height: 300px">
-            <img src="https://images.hdqwalls.com/download/cyberpunk-2077-colored-band-4k-wq-2048x2048.jpg" style="height: 300px">
-            <img src="https://images.hdqwalls.com/download/cyberpunk-2077-colored-band-4k-wq-2048x2048.jpg" style="height: 300px">
+        <div class="col-4 pt-5">
+            <img src="https://images.hdqwalls.com/download/cyberpunk-2077-colored-band-4k-wq-2048x2048.jpg" style="height: 300px" сlass="w-100">
+            <img src="https://images.hdqwalls.com/download/cyberpunk-2077-colored-band-4k-wq-2048x2048.jpg" style="height: 300px" сlass="w-100">
+            <img src="https://images.hdqwalls.com/download/cyberpunk-2077-colored-band-4k-wq-2048x2048.jpg" style="height: 300px" сlass="w-100">
         </div>
     </div>
 </div>
