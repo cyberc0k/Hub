@@ -13,13 +13,13 @@ return new class extends Migration
     {
         Schema::create('profiles', function (Blueprint $table) {
             $table->id();
-            $table->unsignedBigInteger('user_id');
+            $table->unsignedBigInteger('user_id'); //идендификатор бд
             $table->string('title')->nullable();//необязательные поля
             $table->text("description")->nullable();
             $table->string('url')->nullable();
             $table->timestamps();
 
-            $table->index('user_id');
+            $table->index('user_id'); // индекс для индендификатора
         });
     }
 
