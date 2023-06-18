@@ -15,8 +15,10 @@
             <div class="pr-5"><strong>23k</strong> followers</div>
             <div class="pr-5"><strong>212</strong> following</div>
         </div>     </div>
-    <div class="pt-4 font-weight-bold"> this is my experemental project</div>
-    <div><a href="#">Cybercok.com</a></div>
+{{--    // это возвращает определенные строки из профиля--}}
+    <div class="pt-4 font-weight-bold">{{ $user->profile->title }}</div>
+    <div class="pt-4 font-weight-bold">{{ $user->profile->description }}</div>
+    <div><a href="#">{{ $user->profile->url }}</a></div>
 
 
     <div class="row flex-lg-row">
